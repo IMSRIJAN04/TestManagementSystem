@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding:0;
+}
+.head
+{
+	height:100vh;
+}
+.navbar-style
+{
+	box-shadow: 0 5px 10px #efefef;
+}
